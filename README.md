@@ -23,20 +23,19 @@ Should be good in latest Firefox, Edge, Chrome, and Safari.
 
 ### Developing
 
-1. Fork and clone this repository
-2. Install dependencies
+ Install dependencies
 
 ```
 yarn install
 ```
 
-3. Start local development server
+ Start local development server
 
 ```
 yarn dev
 ```
 
-4. Make your changes at either `browser/`, `core/`, or `server/`
-5. Test it out at http://localhost:5173/
+. Make your changes at either `browser/`, `core/`, or `server/`
+. Test it out at http://localhost:5173/
  
  
